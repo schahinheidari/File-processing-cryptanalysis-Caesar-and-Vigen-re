@@ -1,0 +1,1 @@
+Cela est une chaine de caractères tout à fait basique dont le but sera d'être chiffrée.
